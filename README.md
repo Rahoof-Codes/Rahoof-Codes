@@ -56,7 +56,7 @@ Here are some of the cool things I've built so far:
     <td>HTML, CSS, JavaScript, LocalStorage</td>
     <td>
       <a href="https://github.com/Rahoof-Codes/Modern-Mart">Repo</a> • 
-      <a href="https://sample-webpage-1-rahoof-codes.vercel.app">Live Demo</a>
+      <a href="https://modern-martin.vercel.app/">Live Demo</a>
     </td>
   </tr>
   <tr>
