@@ -100,8 +100,7 @@ More projects coming soon — especially Java backend + frontend integrations! �
 
 ### 📬 Let's Connect!
 - 📧 Email: [abdulrahoofrahoof123@gmail.com.com] 
-- 💼 LinkedIn: [Coming soon / add link]
-- 📸 Instagram: [your handle if you want to share]
+- 💼 LinkedIn: [Coming soon]
 - 💻 Open to freelance gigs — DM me if you need a simple web app, billing system, or landing page!
 
 Thanks for stopping by! 🌟 Feel free to ⭐ my repos if you like what you see.
