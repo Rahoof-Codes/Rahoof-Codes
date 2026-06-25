@@ -10,7 +10,7 @@
 
   <p>
     <a href="mailto:abdulrahoof123@gmail.com">📧 Email</a> •
-    <a href="https://www.linkedin.com/in/">LinkedIn (coming soon)</a>
+    <a href="https://www.linkedin.com/in/abdul-rahoof-25a1983b6/">LinkedIn</a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@ Here are some practical tools I've built so far:
 
 **Modern-Mart**  
 A sample e-commerce site for a textile shop. Customers browse dresses, select items, and get redirected to WhatsApp for ordering (no backend needed). Fully responsive & uses LocalStorage for cart persistence.  
-**Tech:** HTML • CSS • JavaScript • LocalStorage  
+**Tech:** React • Next js  • LocalStorage  
 🔗 [Repo](https://github.com/Rahoof-Codes/Modern-Mart) • [Live Demo](https://modern-martin.vercel.app/)
 
 **Tea Hub Billing App**  
